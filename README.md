@@ -9,3 +9,11 @@
 - [X] 11170번 0의 개수
 - [X] 1065번 한수
 - [X] 3040번 백설 공주와 일곱 난쟁이
+
+## 백트래킹
+[정리](https://leather-wildflower-d14.notion.site/Backtracking-621edb0bccbb48b69ad969a7d7d3e09e)
+- [ ] 15649번 N과 M(1)
+- [ ] 15650번 N과 M(2)
+- [ ] 9663번 N-Queen
+- [ ] 1182번 부분수열의 합
+- [ ] 2661번 좋은 수열
