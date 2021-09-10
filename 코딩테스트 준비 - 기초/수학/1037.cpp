@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 int main() {
@@ -18,9 +19,11 @@ int main() {
 		divisor.push_back(tmp);
 	}
 
-	ans = divisor[0];
-	for (int i = 1; i < num_of_divisor; ++i) ans *= divisor[i];
+	sort(divisor.begin(), divisor.end());
+	ans = divisor.front() * divisor.back();
 
 	cout << ans;
 	return 0;	
 }
+
+// ans = 가장 작은 약수 * 가장 큰 약수
