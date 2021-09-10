@@ -1,23 +1,9 @@
 # Algorithm_BOJ
-알고리즘 풀이 정리
+1. 알고리즘 정리
+- [부르트포스(완전탐색)] https://leather-wildflower-d14.notion.site/Brute-Force-0915d84ee7e84b7aa98b2ba219f0e9b1
+- [백트래킹](https://leather-wildflower-d14.notion.site/Backtracking-621edb0bccbb48b69ad969a7d7d3e09e)
 
-## 1. 코딩테스트 준비 - 기초
-### 1) 수학
+2. [궁금했던 것들 정리](https://leather-wildflower-d14.notion.site/eebfbff3bb1a48529bb79a0b660f28ee)
 
-## 2. 혼자 풀어본 문제
-### 1) 완전탐색(부르트 포스)
-- [X] 2231번 분해합
-- [X] 2386번 도비의 영어 공부
-- [X] 2858번 기숙사 바닥
-- [X] 1018번 체스판 다시 칠하기
-- [X] 11170번 0의 개수
-- [X] 1065번 한수
-- [X] 3040번 백설 공주와 일곱 난쟁이
 
-### 2) 백트래킹
-[정리](https://leather-wildflower-d14.notion.site/Backtracking-621edb0bccbb48b69ad969a7d7d3e09e)
-- [ ] 15649번 N과 M(1)
-- [ ] 15650번 N과 M(2)
-- [X] 9663번 N-Queen
-- [X] 1182번 부분수열의 합
-- [ ] 2661번 좋은 수열  => promising 부분 해결 못함
+
