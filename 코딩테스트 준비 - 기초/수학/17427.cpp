@@ -6,7 +6,7 @@ int main() {
 	cin.tie(NULL); cout.tie(NULL);
 
 	int N;
-	int ans = 0;
+	long long ans = 0;
 	
 	cin >> N;
 
@@ -20,3 +20,6 @@ int main() {
 // 1 ~ N까지 1을 약수로 가지는 수 N개
 //           2를 약수로 가지는 수 N/2개
 //            ....
+
+// 자료의 범위를 잘 살펴보기
+// int는 4byte 값인데 결과가 4byte보다 큰 경우가 있으므로 ans의 자료형으로 8byte long long 사용
