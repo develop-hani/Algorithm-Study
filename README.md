@@ -14,6 +14,6 @@
 [정리](https://leather-wildflower-d14.notion.site/Backtracking-621edb0bccbb48b69ad969a7d7d3e09e)
 - [ ] 15649번 N과 M(1)
 - [ ] 15650번 N과 M(2)
-- [ ] 9663번 N-Queen
-- [ ] 1182번 부분수열의 합
-- [ ] 2661번 좋은 수열
+- [X] 9663번 N-Queen
+- [X] 1182번 부분수열의 합
+- [ ] 2661번 좋은 수열  => promising 부분 해결 못함
