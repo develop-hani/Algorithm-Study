@@ -7,7 +7,7 @@ int main() {
 
 	int E, S, M; // 문제에서 주어진 수
 	int year = 1;
-	int E_check, S_check, M_check; //1 씩 늘려가며 확인해볼 수
+	int E_check, S_check, M_check; //1 씩 늘려가며 확인해볼 수 
 	E_check = 1; S_check = 1; M_check = 1;
 
 	cin >> E >> S >> M;
