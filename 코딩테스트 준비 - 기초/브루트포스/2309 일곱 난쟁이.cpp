@@ -19,7 +19,6 @@ int main() {
 	}
 
 	sort(dwarf, dwarf + 9);
-
 	for (int pick1 = 0; pick1 < 8; ++pick1)
 	{
 		for (int pick2 = pick1 + 1; pick2 < 9; ++pick2)
