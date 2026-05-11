@@ -2,10 +2,13 @@ class Solution {
     public int[] separateDigits(int[] nums) {
         List<Integer> digits = new ArrayList<>();
 
-        for (int i = 0; i < nums.length; ++i) {
-            int num = nums[i];
-            List<Integer> ch = String.valueOf(num).chars().map(c -> c -'0').boxed().toList();
-            digits.addAll(ch);
+        for (int i = nums.length - 1; i >= 0; --i) {
+            int n = nums[i];
+
+            while (n > 0) {
+                digits.add(0, n % 10);
+                n /= 10;
+            }
         }
 
         return digits.stream().mapToInt(Integer::intValue).toArray();
