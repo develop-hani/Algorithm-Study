@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/develop-hani/Algorithm-Study/tree/master/0088-merge-sorted-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/develop-hani/Algorithm-Study/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/develop-hani/Algorithm-Study/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/develop-hani/Algorithm-Study/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
