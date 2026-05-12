@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/develop-hani/Algorithm-Study/tree/master/0088-merge-sorted-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/develop-hani/Algorithm-Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/develop-hani/Algorithm-Study/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -31,8 +32,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/develop-hani/Algorithm-Study/tree/master/0088-merge-sorted-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/develop-hani/Algorithm-Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Simulation
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/develop-hani/Algorithm-Study/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/develop-hani/Algorithm-Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
