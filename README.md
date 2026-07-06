@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/develop-hani/Algorithm-Study/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/develop-hani/Algorithm-Study/tree/master/0200-number-of-islands) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/develop-hani/Algorithm-Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/develop-hani/Algorithm-Study/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -41,4 +42,20 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/develop-hani/Algorithm-Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/develop-hani/Algorithm-Study/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/develop-hani/Algorithm-Study/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/develop-hani/Algorithm-Study/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/develop-hani/Algorithm-Study/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
